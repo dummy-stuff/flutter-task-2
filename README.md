@@ -7,14 +7,24 @@ Smartapp has the following screens
 2. Login page
 3. Signup page
 
+
 ## Screenshots
 Here are the screenshots of the compiled app
-### Welcome page
-![Welcome Page](./assets/screenshots/welcome_page.png)
-### Login page
-![Login Page](./assets/screenshots/login_page.png)
-### Signup page
-![signup Page](./assets/screenshots/signup_page.png)
+
+<div style = "diplay: flex;">
+  <div>
+    <h3>Welome Page</h3>
+    <img width = 300 src = "./assets/screenshots/welcome_page.png" alt = "Welcome page">
+  </div>
+  <div>
+    <h3>Login Page</h3>
+    <img width = 300 src = "./assets/screenshots/login_page.png" alt = "Login page">
+  </div>
+  <div>
+    <h3>Signup Page</h3>
+    <img width = 300 src = "./assets/screenshots/signup_page.png" alt = "Signup page">
+  </div>
+</div>
 
 ## Local Development
 To run this project locally, you need to download the zip file and replace 
